@@ -4,6 +4,10 @@ import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
 
+/**
+ *
+ * @author Ngan
+ */
 public class StudyPlanner extends JFrame {
 
     // Title
@@ -130,4 +134,5 @@ public class StudyPlanner extends JFrame {
     public static void main(String[] args) {
         new StudyPlanner();
     }
+
 }
