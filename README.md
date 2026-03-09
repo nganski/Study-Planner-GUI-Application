@@ -77,6 +77,4 @@ Clicking **Exit** closes the program.
 | JList | Displays the list of study tasks |
 | JScrollPane | Allows scrolling through tasks |
 
----
 
-## Layout Design
